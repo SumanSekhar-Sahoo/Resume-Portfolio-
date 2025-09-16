@@ -7,7 +7,7 @@ It is a modern, responsive design that highlights my **skills, education, experi
 ---
 🌐 Live Demo
 
-👉 [See the live resume demo here](https://genuine-moonbeam-c82066.netlify.app/)
+👉 [See the live resume demo here](https://sumansekhar-resume.netlify.app/)
 
 
 ---
